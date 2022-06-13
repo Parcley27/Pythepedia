@@ -1,0 +1,11 @@
+Minecraft is a sandbox video game developed by Mojang Studios. The game was created by Markus "Notch" Persson in the Java programming language. 
+Following several early private testing versions, it was first made public in May 2009 before fully releasing in November 2011, with Notch stepping down 
+and Jens "Jeb" Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time,
+with over 238 million copies sold and nearly 140 million monthly active users as of 2021.
+
+In Minecraft, players explore a blocky, procedurally generated 3D world with virtually infinite terrain, and may discover and extract raw materials, 
+craft tools and items, and build structures, earthworks and simple machines. Depending on game mode, players can fight computer-controlled mobs, 
+as well as cooperate with or compete against other players in the same world. Game modes include a survival mode, in which players must acquire resources 
+to build the world and maintain health, and a creative mode where players have unlimited resources and access to flight. Players can modify the game to 
+create new gameplay mechanics, items, and assets. Minecraft received critical acclaim, winning several awards and later being cited as one of the greatest 
+video games of all time. Social media, parodies, adaptations, merchandise, and the annual Minecon conventions played large roles in popularizing the game. 
