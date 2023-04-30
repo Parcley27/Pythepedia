@@ -1,5 +1,4 @@
 # Pythepedia
-# Python GUI App
 A Python GUI app that is a mini encyclopedia.
 Current articles are sourced from Wikipedia with some additional editing mixed in.
 Feel free to add more articles!
