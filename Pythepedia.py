@@ -269,3 +269,4 @@ def new_search_term():
     topics_list.close()
 
 new_search_term()
+window.mainloop()
